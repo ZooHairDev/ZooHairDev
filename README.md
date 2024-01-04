@@ -5,7 +5,6 @@
 <p align="left"> <a href="https://twitter.com/_syphrose" target="blank"><img src="https://img.shields.io/twitter/follow/zoohairdev?logo=twitter&style=for-the-badge" alt="@ZooHairDev" /></a> </p>
 <!--
 **ZooHairDev/ZooHairDev** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:-->
 
 - 🔭 I’m currently working on **a new secret video game**
