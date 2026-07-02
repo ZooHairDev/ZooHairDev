@@ -11,7 +11,6 @@ Here are some ideas to get you started:-->
 - 🌱 I’m currently learning **Flutter**
 - 👯 I’m looking to collaborate on any interesting projects, **hit me up!!**
 - 💬 Ask me about any tech related stuff, **Feel free!**
-- 📫 How to reach me: **[@ZouhairOuled](https://www.linkedin.com/in/zouhairouled/) / Zouhair.ob@gmail.com**
 - ⚡ Fun fact: I have a **black belt in Karate**
 
 <h3 align="left">Languages and Tools:</h3>
